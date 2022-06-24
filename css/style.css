@@ -102,3 +102,15 @@ input[type=submit]{
 	margin-top:20px;
 	outline:none;
 }
+
+@media screen and (max-width:768px){
+	
+	header{
+		
+	 text-align:center:
+		 
+	}
+	
+	
+	
+}
