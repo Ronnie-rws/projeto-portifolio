@@ -117,17 +117,19 @@ input[type=submit]{
 		text-align:center;
 	}
 
-        .banner{
-
-               text-align:center;
-
-        }
 
 
-        .w33,.w50{
+  .banner{
 
-          width:50%;
+      text-align:center;
 
-         }
+   }
+
+
+   .w33,.w50{
+
+     width:50%;
+
+    }
 
 
