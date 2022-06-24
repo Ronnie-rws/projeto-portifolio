@@ -1,1 +1,2 @@
-O intuito do projeto é praticar o front end mesmo, e com decorrer do tempo serão acrescentados novos itens.
+O intuito deste projeto é praticar o front end, e no decorrer novas funcionalidades serão
+acrescentadas.
